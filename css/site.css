@@ -30,7 +30,7 @@ h1 {
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 .minor-section {
   padding: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   border: solid 1px #888;
-  background-color: #b8b8b8;
+  background-color: #313032;
 }
