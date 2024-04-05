@@ -22,7 +22,7 @@ h1 {
 /* the hashtag in a CSS selector selects an element by id, e.g., id="content" */
 #content {
   margin: 10px;
-  padding: 250px;
+  padding: 10px;
   border: solid 5px #888;
   background-color: #313032;
 }
@@ -30,7 +30,7 @@ h1 {
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 .minor-section {
   padding: 10px;
-  margin-bottom: 40px;
-  border: solid 1px #313032;
+  margin-bottom: 10px;
+  border: solid 1px #888;
   background-color: #313032;
 }
