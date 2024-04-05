@@ -22,8 +22,8 @@ h1 {
 /* the hashtag in a CSS selector selects an element by id, e.g., id="content" */
 #content {
   margin: 10px;
-  padding: 80px;
-  border: solid 1px #888;
+  padding: 250px;
+  border: solid 5px #888;
   background-color: #313032;
 }
 
@@ -31,6 +31,6 @@ h1 {
 .minor-section {
   padding: 10px;
   margin-bottom: 40px;
-  border: solid 1px #888;
+  border: solid 1px #313032;
   background-color: #313032;
 }
