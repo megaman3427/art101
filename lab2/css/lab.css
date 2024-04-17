@@ -34,6 +34,11 @@ p {
 
 }
 
+.AANG-image {
+  margin: 10px;
+  max-width: 500px;
+}
+
 h3 {
   color:red;
   font-size: 150%;
@@ -47,4 +52,9 @@ p1 {
   font-size: 120%;
   padding: 10px;
   border: solid 1px #00ff1e;
+}
+
+.sokka-image {
+  margin: 10px;
+  max-width: 500px;
 }
