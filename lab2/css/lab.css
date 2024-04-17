@@ -19,16 +19,17 @@ h1 {
 }
 
 h2 {
-  color: purple;
+  color: rgb(255, 2, 255);
   font-size: 150%;
 }
 
 p {
-  font-family: "Bold Comic sans";
+  font-family: "Comic sans";
   text-indent: 50px;
   margin-left: 10px;
-  color: rgb(143, 98, 157);
+  color: rgb(198, 74, 203);
   font-size: 120%;
+  padding: 10px;
   border: solid 5px #00ff1e;
 
 }
@@ -39,10 +40,11 @@ h3 {
 }
 
 p1 {
-  font-family:"Bold Comic Sans";
+  font-family: "Comic Sans";
   text-indent: 50px;
   margin-left: 10px;
   color:rgb(173, 59, 59);
   font-size: 120%;
+  padding: 10px;
   border: solid 5px #00ff1e;
 }
