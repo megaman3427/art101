@@ -8,8 +8,7 @@
   width: 1500px;
   min-height: 1500px;
   margin: 10px;
-  padding: 10px;
-  border: solid 5px #00ff1e;
+  
   
 }
 
@@ -50,7 +49,8 @@ p1 {
   margin-left: 10px;
   color: rgb(173, 59, 59);
   font-size: 120%;
-  
+  padding: 10px;
+  border: solid 5px #00ff1e;
 }
 
 .sokka-image {
