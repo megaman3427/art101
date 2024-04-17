@@ -24,11 +24,12 @@ h2 {
 }
 
 p {
-  font-family: "Bold comic sans";
+  font-family: "Bold Comic sans";
   text-indent: 50px;
   margin-left: 10px;
   color: rgb(143, 98, 157);
   font-size: 120%;
+  border: solid 5px #00ff1e;
 
 }
 
@@ -38,9 +39,10 @@ h3 {
 }
 
 p1 {
-  font-family: "comic sans";
+  font-family:"Bold Comic Sans";
   text-indent: 50px;
   margin-left: 10px;
   color:rgb(173, 59, 59);
   font-size: 120%;
+  border: solid 5px #00ff1e;
 }
