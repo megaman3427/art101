@@ -30,7 +30,7 @@ p {
   color: rgb(198, 74, 203);
   font-size: 120%;
   padding: 10px;
-  border: solid 5px #00ff1e;
+  border: solid 1px #00ff1e;
 
 }
 
@@ -46,5 +46,5 @@ p1 {
   color: rgb(173, 59, 59);
   font-size: 120%;
   padding: 10px;
-  border: solid 5px #00ff1e;
+  border: solid 1px #00ff1e;
 }
