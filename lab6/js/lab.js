@@ -3,19 +3,18 @@
 // Date:
 
 // Constants
-
+myTransport = ["Mazda Mazda 3", "bike", "rides  from friends", "Lime scooter"]; 
 // Functions
-
-// this is an example function and this comment tells what it doees and what parameters are passed to it.
-function myFunction(param1, param2) {
-  // some code here
-  // return results;
+myMainRide = {
+  make: "Mazda",   
+  model: "Mazda 3", 
+  color: "Blue", 
+  year: 2015, 
+  age: function() {
+    return 2024 - this.year;
+  }
 }
 
-function main() {
-  console.log("Main function started.");
-  // the code that makes everything happen
-}
-
-// let's get this party started
-main();
+document.writeln("Kinds of transportation I use: ", myTransport, "</br>");
+document.writeln("My Main Ride: <pre>",
+  JSON.stringify(myMainRide, null, '\t'), "</pre>");
