@@ -16,3 +16,6 @@ var result = myArray.map(function(x){
 })
 
 console.log("Sqaureroot of array:", result);
+
+var mapResults = "myArray: [100, 81, 4, 16, 42, 144, 10000] | Evenness of array: [true,false,true,true,true,true,true] | Squareroots of array: [10,9,2,4,6.48074069840786,12,100]";
+$("#output").html(mapResults);
