@@ -12,7 +12,7 @@ $("#challenge").append("<button id='button-challenge'>Challenge</button>");
 
 $("button-challenge").click(function(){
     // now add (or subtract) the "special" class to the section
-    $("#challenge").toggleClass("Challenges");
+    $("#challenge").toggleClass("special");
 });
 
 $("#problems").append("<button id='button-problems'>Problems</button>");
