@@ -1,22 +1,18 @@
 x=121;
 
 function sortingHat(str){
-    let length = str.length;
-    const numOfHouses = 4;
-    let remainder = length % numOfHouses;
-    if(remainder == 0) {
+    len = str.length;
+    mod = len % 4;
+    if(mod == 0) {
       return "snarflepuff";
-    } else if (remainder == 1){
-  
+    } else if (mod == 1){
       return "Glynethpaltrow";
-    } else if (remainder == 2) {
+    } else if (mod == 2) {
       return "SltheringSnake";
-    } else {
+    } else if (mod == 3) {
       return "Paramour";
-    }
+    } 
   }
-  const house = sortingHat("Revon Hollis");
-  console.log(house);
   
   var myButton = document.getElementById("button");
   myButton.addEventListener("click", function() {
